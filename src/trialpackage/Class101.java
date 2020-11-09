@@ -7,6 +7,9 @@ public class Class101 {
 
 		System.out.println("git-tohum ekildi");
 		System.out.println("git-tohum sulandý");
+		System.out.println("git ocakdans-tohum catladi");
+		System.out.println("git ocakdans-tohum catladi2");
+		System.out.println("git ocakdans-tohum catladi3");
 
 	}
 
